@@ -27,7 +27,7 @@
     "react-native-securerandom": "^1.0.0-rc.0",
     "react-native-svg": "^12.1.0",
     "readable-stream": "^3.6.0",
-    "whatwg-url": "^8.0.0"
+    "whatwg-url": "^8.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
